@@ -2,7 +2,7 @@ name: Publish Website to cPanel
 on:
   push:
     branches:
-      - master
+      - setting-up-for-personal-use
 jobs:
   FTP-Deploy-Action:
     name: FTP-Deploy-Action
