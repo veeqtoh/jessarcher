@@ -11,6 +11,6 @@ description: "Hi there👋! This is Victor Ukam and I love to solve technical pr
 
 # TALL/LAMP Full-stack developer.
 
-Currently building <a href="https://docuhelp.ai" target="_blank">Docuhelp AI</a> & <a href="https://requstory.com" target="_blank">Requstory</a> alongside all the cool features I'm building with the <a href="https://abdn.ac.uk" target="_blank">University of Aberdeen's</a> core web applications development team.
+Currently building <a href="https://docuhelp.ai" target="_blank">Docuhelp AI</a> & <a href="https://requstory.com" target="_blank">Requstory</a> plus a few cool stuffs with the core web development team at the <a href="https://abdn.ac.uk" target="_blank">University of Aberdeen</a>.
 
 <a href="/about">Know more</a>
