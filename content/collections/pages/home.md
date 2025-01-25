@@ -10,6 +10,7 @@ description: 'Hi there👋! This is Victor Ukam and I love to solve technical pr
 ---
 # Web software developer.
 
-Building <a href="https://docuhelp.ai" target="_blank">Docuhelp AI</a> and <a href="https://requstory.com" target="_blank">Requstory</a> while making impactful contributions within the core web applications development team at the <a href="https://abdn.ac.uk" target="_blank">University of Aberdeen</a>.
+Building and scaling awesome stuffs at <a href="https://abdn.ac.uk" target="_blank">UoA</a> whilst speeding up the
+development process for other devs with my <a href="https://github.com/veeqtoh" target="_blank">Open-source libraries</a>.
 
 <a href="/projects">Know more</a>
