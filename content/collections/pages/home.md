@@ -10,7 +10,6 @@ description: 'Hi there👋! This is Victor Ukam and I solve technical problems w
 ---
 # Web software developer.
 
-Building, scaling awesome stuffs at a leading higher institution whilst speeding up the
-development process for other devs with my <a href="https://github.com/veeqtoh" target="_blank">Open-source libraries</a>.
+Building, scaling critical services at a leading higher institution and contributing to the PHP & JS <a href="https://github.com/veeqtoh" target="_blank">open source</a>.
 
-<a href="/projects">Know more</a> or schedule a <a href="https://cal.com/victor-ukam/chat" target="_blank">meeting</a>.
+<a href="https://cal.com/victor-ukam/chat" target="_blank">Chat with me</a> or see my <a href="/projects">projects</a>.
