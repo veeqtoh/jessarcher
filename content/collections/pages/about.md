@@ -7,7 +7,7 @@ updated_by: 8a797ce5-64a8-4ca6-a356-d5382ab15ad3
 updated_at: 1669891550
 description: "Married to a wonderful soul, my dedication to creative problem-solving has fueled my journey for over a decade. I've engaged in diverse activities, from crafting web applications with Laravel, Vue, and Tailwind to overseeing the servers that support them."
 ---
-<img src="/assets/images/victor-ukam-1.jpg" class="sm:float-right mx-auto sm:ml-6 mb-10 w-56 sm:w-48 grayscale rounded-md shadow-lg sm:rotate-2 hover:grayscale-0 sm:hover:rotate-3 hover:scale-105 hover:shadow-2xl transition duration-150" />
+<img src="/assets/images/victor-ukam-primary.jpg" class="sm:float-right mx-auto sm:ml-6 mb-10 w-56 sm:w-48 grayscale rounded-md shadow-lg sm:rotate-2 hover:grayscale-0 sm:hover:rotate-3 hover:scale-105 hover:shadow-2xl transition duration-150" />
 
 # Hi again, <span class="whitespace-nowrap">I'm Victor Ukam.</span>
 
